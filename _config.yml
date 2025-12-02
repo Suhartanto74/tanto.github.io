@@ -1,3 +1,4 @@
-remote_theme: "bencentra/jekyll-theme-agency" 
+# GANTI MENJADI KODE INI (Tema yang pasti bekerja):
+theme: jekyll-theme-minimal
 title: Suhartanto - TANTO Server
 description: Profil dan Portofolio Resmi Suhartanto
