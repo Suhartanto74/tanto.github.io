@@ -25,7 +25,7 @@ Gunakan tautan di bawah ini untuk mengakses materi interaktif, video, dan modul 
 ### 2. Kontak dan Konsultasi
 Hubungi saya untuk sesi konsultasi atau pertanyaan terkait materi.
 
-* **Email Resmi**: suhartanto@sman2bengkalis.sch.id
+* **Email Resmi**: suhartanto@gmail.com
 * **Jadwal Konsultasi**: Hari [Hari] | Pukul [Jam Mulai] - [Jam Selesai]
 
 ---
@@ -42,4 +42,4 @@ Lihat galeri foto kegiatan pembelajaran di [Link ke Google Photos atau Galeri].
 
 ---
 
-**[Tambahkan Footer/Informasi Tambahan di sini jika diperlukan]**
+design by suhartanto (c) 2025
