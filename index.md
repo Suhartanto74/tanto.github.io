@@ -1,57 +1,58 @@
----
-layout: default
-title: Home | SMAN 2 Bengkalis
----
-
-# 🏫 Selamat Datang di SMAN 2 Bengkalis
-
-## Mewujudkan Generasi Unggul dan Berakhlak Mulia
-
-Kami berkomitmen menciptakan lingkungan belajar yang inspiratif dan modern, didukung oleh teknologi informasi.
-
----
-
-## 🎯 Navigasi Utama: Fitur Dasar Website
-
-Gunakan menu di bawah ini untuk menjelajahi profil dan kegiatan sekolah. (Anda perlu membuat file baru untuk setiap halaman yang di-link).
-
-| No. | Menu Utama | Deskripsi Konten | Status (Contoh Link) |
-| :--- | :--- | :--- | :--- |
-| **1** | **Profil Sekolah** | Visi, Misi, Sejarah, dan Struktur Organisasi. | [Lihat Profil](/profil-sekolah.html) |
-| **2** | **Info Guru & Staf** | Daftar lengkap Guru dan Tenaga Kependidikan. | [Lihat Daftar Guru](/guru-staf.html) |
-| **3** | **Kegiatan Sekolah** | Berita terbaru, agenda harian, dan kegiatan ekstrakurikuler. | [Lihat Kegiatan](/kegiatan.html) |
-| **4** | **Prestasi** | Pencapaian Siswa dan Sekolah di tingkat Daerah hingga Nasional. | [Lihat Prestasi](/prestasi.html) |
-| **5** | **Blog & Pengumuman** | Artikel edukasi, pengumuman penting dari sekolah. | [Akses Blog](/blog.html) |
-| **6** | **Galeri Sekolah** | Album foto dan video kegiatan sekolah yang terbaru. | [Lihat Galeri](/galeri.html) |
-
----
-
-## 💻 Portal Aplikasi: Fitur Profesional
-
-Fitur-fitur ini memerlukan integrasi dengan sistem eksternal. Kami menyediakan tautan cepat ke portal masing-masing.
-
-### 1. Penerimaan Peserta Didik Baru (PPDB)
-Sistem pendaftaran online untuk calon siswa baru [Tahun Ajaran].
-
-* [**Akses PPDB Online**](https://link-ppdb-anda.sch.id)
-
-### 2. Sistem Informasi Akademik (SIAKAD)
-Portal untuk guru, siswa, dan wali murid dalam memantau nilai, absensi, dan data akademik.
-
-* [**Login Portal SIAKAD**](https://link-siakad-sekolah.sch.id)
-
-### 3. Perpustakaan Digital
-Akses ke koleksi *e-book*, jurnal, dan sumber daya referensi digital sekolah.
-
-* [**Kunjungi Perpus Digital**](https://link-perpus-digital-anda.com)
-
-### 4. Portal Alumni
-Jaringan komunikasi dan informasi khusus untuk para lulusan SMAN 2 Bengkalis.
-
-* [**Akses Forum Alumni**](https://link-forum-alumni-anda.com)
-
----
 <br>
-<p align="center">
-    SUHARTANTO | Guru INFORMATIKA | SMAN 2 Bengkalis
-</p>
+<div align="center">
+    <h1>✨ SMAN 2 Bengkalis: Pusat Inovasi Digital ✨</h1>
+    <p style="font-size: 1.2em; color: #555;">Kami mengundang Anda menjelajahi media pembelajaran, portal akademik, dan kegiatan sekolah.</p>
+</div>
+
+---
+
+<h2 align="center">🧭 Menu Utama Sekolah</h2>
+<p align="center">Akses Cepat ke Informasi Penting</p>
+
+<div class="repo-list">
+
+    <div class="box-shadow-medium" style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-school" style="color: #007bff;"></i> Profil Sekolah</h3>
+        <p>Visi, Misi, Sejarah, dan Struktur Organisasi sekolah.</p>
+        <a href="/profil-sekolah.html" class="btn btn-blue" style="text-decoration: none; background-color: #007bff; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Selengkapnya</a>
+    </div>
+
+    <div class="box-shadow-medium" style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-chalkboard-teacher" style="color: #28a745;"></i> Info Guru & Staf</h3>
+        <p>Daftar lengkap Guru dan Tenaga Kependidikan SMAN 2 Bengkalis.</p>
+        <a href="/guru-staf.html" class="btn btn-green" style="text-decoration: none; background-color: #28a745; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Daftar</a>
+    </div>
+
+    <div class="box-shadow-medium" style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-calendar-alt" style="color: #ffc107;"></i> Kegiatan Sekolah</h3>
+        <p>Berita terbaru, agenda harian, dan kegiatan ekstrakurikuler.</p>
+        <a href="/kegiatan.html" class="btn btn-yellow" style="text-decoration: none; background-color: #ffc107; color: black; padding: 8px 12px; border-radius: 4px;">Akses Agenda</a>
+    </div>
+
+    <div class="box-shadow-medium" style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-trophy" style="color: #dc3545;"></i> Prestasi</h3>
+        <p>Pencapaian Siswa dan Sekolah di tingkat Daerah hingga Nasional.</p>
+        <a href="/prestasi.html" class="btn btn-red" style="text-decoration: none; background-color: #dc3545; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Prestasi</a>
+    </div>
+
+</div>
+
+---
+
+<h2 align="center">🔗 Portal Aplikasi Cepat</h2>
+
+<div class="repo-list">
+    <div class="box-shadow-medium" style="border: 2px solid #007bff; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-user-plus" style="color: #007bff;"></i> PPDB Online</h3>
+        <p>Penerimaan Peserta Didik Baru Tahun Ajaran Terbaru.</p>
+        <a href="https://link-ppdb-anda.sch.id" class="btn btn-blue-outline" style="text-decoration: none; color: #007bff; border: 1px solid #007bff; padding: 8px 12px; border-radius: 4px;">Akses Portal</a>
+    </div>
+
+    <div class="box-shadow-medium" style="border: 2px solid #28a745; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-graduation-cap" style="color: #28a745;"></i> SIAKAD</h3>
+        <p>Portal Nilai, Absensi, dan Data Akademik Siswa/Wali Murid.</p>
+        <a href="https://link-siakad-sekolah.sch.id" class="btn btn-green-outline" style="text-decoration: none; color: #28a745; border: 1px solid #28a745; padding: 8px 12px; border-radius: 4px;">Login SIAKAD</a>
+    </div>
+</div>
+
+<br>
