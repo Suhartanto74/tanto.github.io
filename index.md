@@ -111,7 +111,7 @@ title: SMAN 2 Bengkalis - Portal Resmi Sekolah
         </a>
     </div>
 </div>
-
+Force rebuild to clear cache
 ---
 
 <div align="center" style="padding: 20px; margin-top: 40px; background-color: #343a40; color: #ffffff; border-top: 5px solid #007bff;">
