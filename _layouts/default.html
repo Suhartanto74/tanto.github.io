@@ -8,15 +8,24 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    <div class="nav-links">
-    <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li> <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-        <li><a href="{{ '/skills/' | relative_url }}">Skills</a></li>
-        <li><a href="{{ '/portfolio/' | relative_url }}">Portfolio</a></li>
-        <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-        <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-    </ul>
-</div>
+    <nav class="main-nav">
+    <div class="nav-container">
+        <a href="{{ '/' | relative_url }}" class="site-title-brand">
+            Suhartanto <i class="fas fa-grip-lines"></i>
+        </a>
+        
+        <div class="nav-links">
+            <ul>
+                <li><a href="{{ '/' | relative_url }}">Home</a></li> 
+                <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+                <li><a href="{{ '/skills/' | relative_url }}">Skills</a></li>
+                <li><a href="{{ '/portfolio/' | relative_url }}">Portfolio</a></li>
+                <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
+                <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
 
     <div class="content container">
         {{ content }} 
