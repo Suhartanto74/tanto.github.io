@@ -9,7 +9,7 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 40px 20px;
-    min-height: 80vh; /* Agar konten tidak terlalu pendek */
+    min-height: 80vh; 
 }
 /* NAVBAR STYLING */
 .main-nav {
