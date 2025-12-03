@@ -1,13 +1,4 @@
-# --- PENGATURAN NAVIGASI HEADER (Menu Laci) ---
-header_pages:
-  - profil-sekolah.md
-  - guru-staf.md
-  - kegiatan.md
-  - prestasi.md
-  - blog.md
-  - galeri.md
-
-# PENTING: MENYETEL JUDUL SITUS MENJADI KOSONG
-title: " "
-
-# (HAPUS remote_theme dan plugins)
+title: 'Suhartanto - Website Pribadi'
+remote_theme: pages-themes/minimal@v0.2.0 # Tema minimalis
+plugins:
+  - jekyll-remote-theme
