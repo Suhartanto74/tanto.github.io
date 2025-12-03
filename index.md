@@ -1,13 +1,13 @@
 ---
 layout: default
-title: SMAN 2 Bengkalis - Portal Resmi Sekolah
+title: SMAN 2 Bengkalis - Portal SMANDA Bengkalis
 ---
 
 <div align="center" style="padding: 40px 20px; background-color: #f8f9fa; border-bottom: 5px solid #007bff;">
     <img src="https://iili.io/KbpdFZN.png" alt="Logo SMAN 2 Bengkalis" style="max-width: 180px; margin-bottom: 15px; border-radius: 50%; border: 3px solid #ffffff; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
     <h1 style="color: #343a40; font-size: 2.5em; margin-bottom: 5px;">
-        🏫 SMAN 2 Bengkalis
+         SMAN 2 Bengkalis
     </h1>
     <p style="font-size: 1.3em; color: #007bff; font-weight: 500; margin-top: 0;">
         "Mewujudkan Generasi Unggul dan Berakhlak Mulia"
