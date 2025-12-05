@@ -17,7 +17,7 @@ permalink: /portfolio/
 
 <hr>
 
-## 🌐 Proyek 2: Koperasi Sekolah
+## 🌐 Koperasi Sekolah
 * **Teknologi:** Google Apps Script, Google Sheets, HTML/CSS
 * **Deskripsi:** Sistem Koperasi Sekolah yang menampilkan informasi tentang keuangan Anggota
 * **Link:** [Akses Demo Langsung di Sini](https://script.google.com/macros/s/AKfycbyz1n5-5G_K6N0RH82HfIF6G63AUwSnIC64zDfN8Qtn3zLlIVd0Rq38ndEiknJeifKKOA/exec))
@@ -25,7 +25,7 @@ permalink: /portfolio/
 
 <hr>
 
-## 📚 Proyek 3: Perpustakaan Digital (Google Apps Script)
+## 📚 Perpustakaan Digital (Google Apps Script)
 * **Teknologi:** Google Apps Script, Google Sheets, HTML/CSS
 * **Deskripsi:** Sistem yang memungkinkan pengguna untuk menambah data buku atau koleksi yang tersimpan secara dinamis di Google Sheets melalui formulir web.
 * **Link:** [Akses Demo Langsung di Sini](https://script.google.com/macros/s/AKfycbwxwfc3wrV5XqIIDM2q3ov89UBdTkoaiS3M9SijEEKQ8MfNwb9zC4zLap0xSrXkZpPJ/exec)
